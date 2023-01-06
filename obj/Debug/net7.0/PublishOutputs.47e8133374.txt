@@ -1,0 +1,1 @@
+C:\Users\david\source\repos\BlazorWasmCloudflarePages\bin\Debug\net7.0\publish\web.config
